@@ -1,0 +1,1 @@
+sextractor SC-F814.fits -c config.txt
