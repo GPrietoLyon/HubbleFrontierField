@@ -1,0 +1,14 @@
+#   1 NUMBER                 Running object number                                     
+#   2 FLUX_AUTO              Flux within a Kron-like elliptical aperture                [count]
+#   3 FLUXERR_AUTO           RMS error for AUTO flux                                    [count]
+#   4 MAG_AUTO               Kron-like elliptical aperture magnitude                    [mag]
+#   5 MAGERR_AUTO            RMS error for AUTO magnitude                               [mag]
+#   6 X_IMAGE                Object position along x                                    [pixel]
+#   7 Y_IMAGE                Object position along y                                    [pixel]
+#   8 ALPHA_J2000            Right ascension of barycenter (J2000)                      [deg]
+#   9 DELTA_J2000            Declination of barycenter (J2000)                          [deg]
+#  10 FLAGS                  Extraction flags                                          
+         1     270.2755     16.45364  19.9205   0.0661     85.390     36.846   0.0000000  +0.0000000  16
+         2     6.023679     2.467853  24.0503   0.4449     96.525     12.660   0.0000000  +0.0000000  16
+         3     3.000781     1.740326  24.8069   0.6298     99.305     88.014   0.0000000  +0.0000000  24
+         4     13.72974     3.725866  23.1558   0.2947     71.342     89.806   0.0000000  +0.0000000   0
